@@ -34,3 +34,12 @@ Repositório Git
 O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempre reforçamos sua importância em nossa metodologia educacional. Por isso, todo código-fonte desenvolvido durante este conteúdo foi versionado no seguinte endereço para que você possa consultá-lo a qualquer momento:
 
 https://github.com/julianazanelatto/power_bi_analyst
+
+MAPAS 1, 2 e 3: 
+
+![maps](https://github.com/IvoJucaBezerra/Analisando-dados-de-um-Dashboard-de-Vendas-no-Power-BI/blob/main/desafiopowerBI-dio-NTTDATA1.png)
+
+![maps](https://github.com/IvoJucaBezerra/Analisando-dados-de-um-Dashboard-de-Vendas-no-Power-BI/blob/main/desafiopowerBI-dio-NTTDATA2.png)
+
+![maps](https://github.com/IvoJucaBezerra/Analisando-dados-de-um-Dashboard-de-Vendas-no-Power-BI/blob/main/desafiopowerBI-dio-NTTDATA3.png)
+
